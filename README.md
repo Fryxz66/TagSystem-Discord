@@ -26,8 +26,8 @@ In ein paar Sätzen beschreiben wofür man das System verwenden kann.
 * 0.2.1
     * Änderung: Dokumente aktualisieren (Modulcode bleibt unverändert).
 * 0.2.0 - Release
-    * ÄNDERUNG: `setDefaultXYZ()` wurde gelöscht.
-    * Hinzugefügt: `init()`
+    * ÄNDERUNG:
+    * Hinzugefügt: 
 * 0.1.1
     * Behobene Fehler von Jules113:
 * 0.1.0 - Release
