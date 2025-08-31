@@ -1,0 +1,63 @@
+### Zum Kopieren und selber anpassen
+
+
+
+
+
+Tags: Zuweisung & Bedeutungen
+Spamming (Code: SpM)
+Spamming ist ein häufiges Problem, das nervt und die Übersichtlichkeit stört.
+
+
+• SpM/1: Wiederholtes Posten von Nachrichten, Emotes oder Links in kurzer Zeit, stört den Chatfluss.
+• SpM/2: Ignoriert Warnungen, spamt weiter trotz Aufforderung aufzuhören.
+• SpM/3: Absichtliches Spammen mit der Intention, Kanäle unnutzbar zu machen (Temporärer Channel-Ban).
+
+
+
+
+Toxisches Verhalten (Code: TxV)
+Für allgemeines toxisches Verhalten, das nicht direkt Beleidigung oder Trolling ist, aber die Community negativ beeinflusst.
+
+
+• TxV/1: Ständiges Meckern, passive Aggressivität oder Herabsetzen anderer ohne konstruktiven Beitrag.
+• TxV/2: Wiederholtes toxisches Verhalten trotz Verwarnung, z. B. andere User kleinmachen.
+• TxV/3: Toxisches Verhalten eskaliert, z. B. gezieltes Stören von Diskussionen (Temporärer Channel-Ban).
+
+
+
+
+Regelverstoß (Allgemein) (Code: RgV)
+Für Verstöße gegen Serverregeln, die nicht in andere Kategorien passen (z. B. Werbung, NSFW-Inhalte, etc.).
+
+
+• RgV/1: Leichter Verstoß gegen Serverregeln, z. B. unangebrachte Werbung oder unpassende Inhalte.
+• RgV/2: Wiederholter Regelverstoß nach Verwarnung, z. B. wiederholtes Posten verbotener Links.
+• RgV/3: Schwere oder wiederholte Regelverstöße, z. B. NSFW-Inhalte oder illegale Aktivitäten (Temporärer Ban).
+
+
+
+
+Betrug außerhalb von Scams (Code: BtG)
+Für betrügerisches Verhalten, das nicht direkt mit Trading/Scamming zusammenhängt, z. B. Fake-Identitäten oder Täuschung.
+
+
+• BtG/1: Verdacht auf Täuschung, z. B. Nutzung falscher Identitäten oder irreführender Angaben.
+• BtG/2: Nachweis von Täuschung, z. B. gefälschte Screenshots oder Lügen über Status/Rollen.
+• BtG/3: Wiederholte oder schwere Täuschung mit Schaden für die Community (Temporärer Ban).
+
+
+
+
+Missbrauch von Bots/Features (Code: BtM)
+Für den Missbrauch von Server-Bots, Commands oder anderen Funktionen.
+
+
+• BtM/1: Missbrauch von Bot-Commands, z. B. exzessives Spammen von Bot-Befehlen.
+• BtM/2: Fortgesetzter Missbrauch trotz Verwarnung, z. B. Umgehen von Bot-Beschränkungen.
+• BtM/3: Absichtlicher Missbrauch, um Server-Funktionen zu stören (Temporärer Channel-Ban).
+
+
+
+
+

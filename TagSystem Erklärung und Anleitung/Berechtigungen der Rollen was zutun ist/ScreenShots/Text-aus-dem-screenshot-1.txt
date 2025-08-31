@@ -1,0 +1,39 @@
+### vorwort: eigentlich ist das ganze System selbst erklärend :D
+
+
+
+Berechtigungen der Rollen & was zutun ist......
+
+
+
+**Rollen Berechtigungen**
+
+@Moderator 
+```diff
+  Kicken, Timeout, TagUse
+```
+
+
+@Supporter 
+```diff
+   Timeout
+```
+
+
+
+**Was ist TagUse?**
+> Mit TagUse könnt ihr für den @Owner - @Admin verdächtige Spieler an Pingen, Quasi eine Notiz für weitere Schritte.
+
+
+**Was ist zutun?**
+> Wenn ein @Moderator einen Tag an einen Spieler vergibt, ist dieses in #⚠️tag-eintrag einzutragen damit der @Owner oder @Admin weitere Schritte einleiten können. *(Pflicht)*
+> Moderatoren können mit der @🏷️TagUse Rolle über den @CookieMod#4185 Mitgliedern die Tag Rollen zuweisen. ( Missbrauchs sicher :lightblue: )
+
+**Was tut der Supporter?**
+> Der @Supporter ist in erster Linie dafür mit verantwortlich dazu zu sorgen das Mitglieder sich an die Regeln halten und im falle von Regel Verstöße diese einem @Moderator in #meldung🚨 zu melden damit Er einen entsprechenden Tag vergeben kann.
+*(Im äußersten Notfall können Supporter timeouts vergeben)*
+
+
+
+:bangbang: ***Achtung*** :bangbang:
+*Bei Missbrauch wird* @🏷️TagUse *entzogen!*
