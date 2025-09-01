@@ -38,4 +38,4 @@ _Wenn du bei dem Projekt mitarbeiten möchtest, schreibe mir Jules113 per Discor
 
 
 ## Lizenz
-Dieses Projekt ist unter der [Apache License 2.0](license) lizenziert. Der vollständige Text ist auf Englisch verfügbar.
+Dieses Projekt ist unter der [Apache License 2.0](LICENSE) lizenziert. Der vollständige Text ist auf Englisch verfügbar.
