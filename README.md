@@ -33,7 +33,7 @@ Details zu den Versionen und Updates findest du in der [Versionsdatei](VERSION)
 
 ## Metadaten 
 
-Julian aka Jules113 – [Github: @Jules113](https://github.com/Jules113) – [Discord](https://discordapp.com/users/1166041033918926920) - [Links & Biografie:](https://fakecrime.bio/Jules113)
+Julian aka Jules113 – [Github: @Jules113](https://github.com/Jules113) – [Discord](https://discordapp.com/users/1166041033918926920) - [Links & Biografie](https://fakecrime.bio/Jules113)
 
 _Wenn du bei dem Projekt mitarbeiten möchtest, schreibe mir Jules113 per Discord_
 
