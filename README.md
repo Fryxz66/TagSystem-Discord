@@ -25,10 +25,9 @@ Das TagSystem löst das Problem.
 
 
 
+## Versionsverlauf
 
-## Versionshistoriea
-
-Details zu den Versionen und Updates findest du in der [Versionsdatei](VERSION).
+Details zu den Versionen und Updates findest du in der [Versionsdatei](VERSION)
 
 
 
