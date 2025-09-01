@@ -30,15 +30,12 @@
 
 
 
-## Metadaten
+## Metadaten 
 
 Julian aka Jules113 – [Github: @Jules113](https://github.com/Jules113) – [Discord](https://discordapp.com/users/1166041033918926920) - [Linkst & Biografie:](https://fakecrime.bio/Jules113)
 
+_Wenn du bei dem Projekt mitarbeiten möchtest, schreibe mir Jules113 per Discord_
 
 
- _Wenn du bei dem Projekt mitarbeiten möchtest, schreibe mir Jules113 per Discord_
-
-* Für private Zwecke darf das Projekt verwendet werden.
-* Bei Fragen, Problemen oder wenn ihr nicht mehr weiter wisst, könnt ihr mir gerne auf Discord schreiben.
-
-
+## Lizenz
+Dieses Projekt ist unter der [Apache License 2.0](LICENSE) lizenziert. Der vollständige Text ist auf Englisch verfügbar.
