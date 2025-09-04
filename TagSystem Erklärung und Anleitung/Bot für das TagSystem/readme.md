@@ -8,7 +8,7 @@ Ein Discord-Bot, der Slash-Commands bereitstellt, um Rollen auf einem Discord-Se
 - **/remove_role**: Entfernt eine Rolle von einem Nutzer (für Moderatoren mit „Manage Roles“-Berechtigung und der erlaubten Rolle).
 
 ## Voraussetzungen
-- **Python**: Version 3.8 oder höher (getestet mit Python 3.10/3.13).
+- **Python**: Version 2.0/3.8 oder höher (getestet mit Python 3.10/3.13).
 - **Discord Developer Portal**: Ein Bot-Token und korrekte Einstellungen (siehe unten).
 - **Betriebssystem**: Windows (getestet), Linux oder macOS sollten ebenfalls funktionieren.
 - **Visual Studio Code** oder ein anderer Code-Editor (empfohlen für die Entwicklung).
@@ -129,4 +129,5 @@ Ein Discord-Bot, der Slash-Commands bereitstellt, um Rollen auf einem Discord-Se
 - Für weitere Fragen oder Anpassungen wende dich an den Entwickler oder die Dokumentation von `discord.py`.
 
 ## Lizenz
+
 - Dieses Projekt ist für den privaten Gebrauch gedacht. Keine offizielle Lizenz definiert.
