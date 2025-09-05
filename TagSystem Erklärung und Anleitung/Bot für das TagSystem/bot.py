@@ -14,7 +14,7 @@ bot = discord.Client(intents=intents)
 tree = app_commands.CommandTree(bot)
 
 # Variable für die erlaubte Rolle
-allowed_role_id = None
+allowed_role_id = 1411490060636782612
 
 @bot.event
 async def on_ready():
@@ -82,4 +82,5 @@ async def command_error(interaction: discord.Interaction, error: app_commands.Ap
         await interaction.response.send_message(f'Fehler: {error}')
 
 # Bot starten
+
 bot.run(TOKEN)
