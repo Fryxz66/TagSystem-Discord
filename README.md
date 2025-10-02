@@ -2,7 +2,6 @@
 
 > **Motivation:** Dieses Projekt liegt mir sehr am Herzen, da ich großes Potenzial in diesem System sehe – besonders in Verbindung mit einem Discord-Bot, mit dem man es besser einstellen und automatisieren kann.
 
-![Projektbild](https://cdn.discordapp.com/attachments/1348427495749193780/1411716371254870046/55B02C6E-2182-492B-A6CB-6A7EC75DF0CD.jpg)
 
 ---
 
